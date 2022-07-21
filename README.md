@@ -17,7 +17,7 @@ Set of mobiles is orderered by using stream functions like 'sorted'. In normal w
 
 ## RUN
 
-Import Right click on java/com/mobile/service/Application.java and click on Run'Application.main()'. Java 18 used for this solution. 
+Import Right click on java/com/mobile/service/Application.java and click on Run'Application.main()'. Java 17 used for this solution. 
 
 # REST API
 
